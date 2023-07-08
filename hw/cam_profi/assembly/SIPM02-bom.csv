@@ -1,0 +1,18 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,ust_id
+1,Resistor,R,C10,0R,SMD-0805,1,~,5c70984512875079b91f896b
+2,Unpolarized capacitor,C,C9,10nF,SMD-0805,1,~,5c70984712875079b91f8b49
+3,Unpolarized capacitor,C,C5C6C8R8,100nF,SMD-0805,4,~,5c70984712875079b91f8b4c
+4,Unpolarized capacitor,C,C4C7,10u,SMD-0805,2,~,5c70984712875079b91f8b53
+5,,CP-Device,C3,47uF,TantalC_SizeC_Reflow,1,,5c70984412875079b91f8867
+6,,CP-Device,C1,15uF/35V,TantalC_SizeC_Reflow,1,,5c70984812875079b91f8bac
+7,,EMI_Filter_C-Device,C2,1u5/50V - NFM41PC155B1H3L,FIR_1806,1,http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb,5c70984712875079b91f8b9b
+8,Diode,D,D1,M4,Diode-SMA_Standard,1,~,5c70984512875079b91f88ac
+9,"2x01 2.54 mm pitch header, 2 pins next to each other are connected",HEADER_2x01_PARALLEL,J1J2J3J4J5J6J7J8J9J10,HEADER_2x01_PARALLEL,Straight_2x01,10,,
+10,Resistor,R,R1R2R4R5,10R,SMD-0805,4,~,5c70984512875079b91f896d
+11,Resistor,R,R3,100R,SMD-0805,1,~,5c70984512875079b91f8977
+12,Resistor,R,R9,470R,SMD-0805,1,~,5c70984512875079b91f8986
+13,Resistor,R,R11R12,1k,SMD-0805,2,~,5c70984512875079b91f898c
+14,Resistor,R,R10,12k,SMD-0805,1,~,5c70984612875079b91f89a1
+15,Resistor,R,R6R7,-,SMD-0805,2,~,
+16,,MICROFC-60035-SMT-TR(1),U1,MICROFC-60035-SMT-TR(1),MicroFC−60035−SMT,1,,60f907411287500165a96c1e
+17,"Single Low-Power, 3.9GHz, Wideband, Ultra-Low Noise, Voltage-Feedback Operational Amplifier with Disable, SOT-23-6",OPA847xDBV,U2,OPA836IDB,SOT-23-6,1,http://www.ti.com/lit/ds/symlink/opa847.pdf,5c7273171287500b4e112ff8
