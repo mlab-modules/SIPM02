@@ -9,8 +9,8 @@ github_url: https://github.com/mlab-modules/SIPM02
 homepage: false
 image: doc/gen/img/SIPM02-top.png
 images:
-- doc/src/img/SIPM02_big_top.png
 - doc/src/img/SIPM02_big_bot.png
+- doc/src/img/SIPM02_big_top.png
 - doc/gen/img/SIPM02-bottom.png
 - doc/gen/img/SIPM02-top.png
 - doc/gen/SIPM02-schematic.svg
@@ -20,9 +20,9 @@ images:
 - hw/cam_profi/assembly/SIPM02-assembly_page_01.svg
 issues: 1
 mark: 50
-status: 2
 mod_ibom: hw/cam_profi/SIPM02-ibom.html
 mod_scheme: doc/gen/SIPM02-schematic.pdf
+status: 2
 tags:
 - mlab
 - mlab-module
@@ -32,4 +32,4 @@ tags:
 - mlab-kicad
 - pcb
 title: SIPM02
-updated: '2023-09-11T01:04:17.068903+00:00'
+updated: '2023-09-15T15:06:38.274071+00:00'
