@@ -7,7 +7,7 @@ github_branches:
 github_repo: SIPM02
 github_url: https://github.com/mlab-modules/SIPM02
 homepage: false
-image: doc/gen/img/SIPM02-top.png
+image_title: doc/gen/img/SIPM02-top.png
 images:
 - doc/src/img/SIPM02_big_bot.png
 - doc/src/img/SIPM02_big_top.png
