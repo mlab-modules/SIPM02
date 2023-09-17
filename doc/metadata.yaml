@@ -1,10 +1,12 @@
-description: null
+description: The module is electro-mechanical interface between scintillation crystal
+  and signal processing unit.
 github_branch: SIPM02C
 github_branches:
 - SIPM02A
 - SIPM02B
 - SIPM02C
-github_description: null
+github_description: The module is electro-mechanical interface between scintillation
+  crystal and signal processing unit.
 github_repo: SIPM02
 github_url: https://github.com/mlab-modules/SIPM02
 homepage: false
@@ -33,4 +35,4 @@ tags:
 - mlab-kicad
 - pcb
 title: SIPM02
-updated: '2023-09-17T11:33:32.129825+00:00'
+updated: '2023-09-17T11:49:39.168009+00:00'
