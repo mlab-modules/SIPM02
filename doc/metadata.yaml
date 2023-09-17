@@ -4,6 +4,7 @@ github_branches:
 - SIPM02A
 - SIPM02B
 - SIPM02C
+github_description: null
 github_repo: SIPM02
 github_url: https://github.com/mlab-modules/SIPM02
 homepage: false
@@ -32,4 +33,4 @@ tags:
 - mlab-kicad
 - pcb
 title: SIPM02
-updated: '2023-09-16T16:04:33.151449+00:00'
+updated: '2023-09-17T11:33:32.129825+00:00'
